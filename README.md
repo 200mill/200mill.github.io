@@ -7,3 +7,4 @@
 ## /code
 웹(200mill.github.io/code)
 ## /code/sir
+웹(200mill.github.io/code/sir)
