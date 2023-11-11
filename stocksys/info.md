@@ -45,6 +45,10 @@ System.Exception: Sucess
 실행성공 embed로 처리하고 Console에 출력하지 않음
 ## /userid
 ### 문제 1(not planned, 계획되지 않음)
+#### 참조
+userid는 개발자 **tool로 수동으로 구할수 있으므로** 패치대상이 아닙니다   
+![image](https://github.com/200mill/200mill.github.io/assets/97425242/fb472081-46ac-4878-a41b-3a7ec6620782)   
+
 #### 원인
 **Timeout**
 #### 해결방안
