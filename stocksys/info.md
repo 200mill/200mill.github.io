@@ -79,3 +79,7 @@ Bot : @Stock System#8916
 Bot Online Time : On Debug(디버그중)   
 Planned Online Time : 24/7 100% uptime   
 
+# 봇 운영 방안
+## Pull Request로 운영제안 받습니다
+
+github 로그인... 해야할걸요?
