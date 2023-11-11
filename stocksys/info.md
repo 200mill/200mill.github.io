@@ -8,7 +8,7 @@
 # 확인된 문제
 ## /balance
 ### 문제 1(planned, 계획됨)
-내용 전문:
+내용 전문:   
 ```
 Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'int' because it is a non-nullable value type
    at CallSite.Target(Closure, CallSite, Object)
@@ -32,12 +32,14 @@ Excel CSA처리부분에 0안적어둠(빈칸이라 null이됨)
 원인 확인후 해결예정
 ## /addaccount
 ### 문제 1(not palnned, 계획되지 않음)
-내용 전문
-```System.Exception: Sucess
-   at Example.Modules.StockModule.addaccount(Int64 id, SocketGuildUser user) in E:\DiscordBot\src\Modules\StockModule.cs:line 59```
+내용 전문   
+```
+System.Exception: Sucess
+   at Example.Modules.StockModule.addaccount(Int64 id, SocketGuildUser user) in E:\DiscordBot\src\Modules\StockModule.cs:line 59
+```
 #### 원인
 **Success 처리를 빨리 끝내기 위해 예외를 던지는걸로 함**
-#### 그로인한 피해ㅐ
+#### 그로인한 피해
 **Fail과 같은 Error로 처리되어 Console이 더러워짐**
 #### 해결방안
 실행성공 embed로 처리하고 Console에 출력하지 않음
@@ -64,4 +66,4 @@ buy작업 완료시 가능
 Developer : @200mill 
 Bot : @Stock System#8916 
 Bot Online Time : On Debug(디버그중)
-Planned T: 0
+Planned Online Time : 24/7 100% uptime
