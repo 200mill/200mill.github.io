@@ -3,7 +3,7 @@
 ## Infomration.2
 작업이 힘들어요
 ## 개발이 상당히 느려질거 같아요
-사유 :    코드 복잡해짐![image](https://github.com/200mill/200mill.github.io/assets/97425242/aead479d-c95d-4575-afab-25bd31088b4c)
+사유 :            코드 복잡해짐![image](https://github.com/200mill/200mill.github.io/assets/97425242/aead479d-c95d-4575-afab-25bd31088b4c)
 
 
 ## 기타 자세한 정보
