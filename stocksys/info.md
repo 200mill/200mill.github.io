@@ -1,7 +1,7 @@
 # Information
 이 Text는 예정된 작업과 확인된 문제, 그에 대한 해결방안등을 서술한 Text입니다.
 ## Infomration.2
-이 Text가 2000자를 넘으면 Web으로 이전시킬겁니다
+작업이 힘들어요
 ## 기타 자세한 정보
 **None**
 
