@@ -63,7 +63,10 @@ buy 작업중이라 sell작업 처리불가
 buy작업 완료시 가능
 
 # 기타정보
-Developer : @200mill 
-Bot : @Stock System#8916 
-Bot Online Time : On Debug(디버그중)
-Planned Online Time : 24/7 100% uptime
+Developer : @200mill   
+![image](https://github.com/200mill/200mill.github.io/assets/97425242/40d89bf8-1df1-420c-b1ef-8afa70d52367)   
+Bot : @Stock System#8916   
+![image](https://github.com/200mill/200mill.github.io/assets/97425242/def6cf26-84ac-4789-8b17-840231daeb56)    
+Bot Online Time : On Debug(디버그중)   
+Planned Online Time : 24/7 100% uptime   
+
