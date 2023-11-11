@@ -8,14 +8,16 @@
 # 확인된 문제
 ## /balance
 ### 문제 1(planned, 계획됨)
-내용 전문
-```Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'int' because it is a non-nullable value type
+내용 전문:
+```
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'int' because it is a non-nullable value type
    at CallSite.Target(Closure, CallSite, Object)
    at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
    at Example.Modules.StockModule.balance(SocketGuildUser user) in E:\DiscordBot\src\Modules\StockModule.cs:line 289Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'int' because it is a non-nullable value type
    at CallSite.Target(Closure, CallSite, Object)
    at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
-   at Example.Modules.StockModule.balance(SocketGuildUser user) in E:\DiscordBot\src\Modules\StockModule.cs:line 289```
+   at Example.Modules.StockModule.balance(SocketGuildUser user) in E:\DiscordBot\src\Modules\StockModule.cs:line 289
+```
 #### 해석
 **Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'int' because it is a non-nullable value type** >> null을 int로 변환할수 없음
 #### 원인
