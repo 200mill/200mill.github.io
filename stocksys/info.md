@@ -12,7 +12,7 @@
 
 # 확인된 문제
 ## /balance
-### 문제 1(planned, 계획됨)
+### 문제 1(completed, 완료)
 내용 전문:   
 ```
 Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'int' because it is a non-nullable value type
